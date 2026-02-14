@@ -6,12 +6,12 @@ This model is a YSM model developed based on the boss "Ultimate Order Manager" i
 
 **致谢 (Credits)** 
 
-本模型基于 [梦幻终焉 FantasyEnding] 开发。
+本模型基于 梦幻终焉 FantasyEnding 开发。
 
-This model is based on [FantasyEnding].
+This model is based on FantasyEnding.
 
-- **原作者 Original Author**：[MegaDarkness]
-- **源代码/原始模型来源**Source Code/Original Model Source：[https://www.mcmod.cn/class/16674.html]
+- **原作者 Original Author**[MegaDarkness
+- **源代码/原始模型来源**Source Code/Original Model Source：https://www.mcmod.cn/class/16674.html
 - **原始授权 Original License**：MIT License
 
 **授权协议 (License Agreement)** 
@@ -28,9 +28,9 @@ As required by the MIT License, this project includes the original author's copy
 
 **前置模组需求 Required Mods** 
 
-此模型以 [**是，史蒂夫模型 Yes Steve Model**] 为前置模组。
+此模型以 **是，史蒂夫模型 Yes Steve Model** 为前置模组。
 
-This model requires the [**Yes Steve Model**] mod as a prerequisite.
+This model requires the **Yes Steve Model** mod as a prerequisite.
 
 点击并选择下载库中的UOM_Chan.zip文件，随后在.minecraft文件中找到正在游玩的存档中的**yes_steve_model**文件夹，在custom文件夹内粘贴已下载的.zip文件，即可在游戏内正常使用。
 
