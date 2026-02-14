@@ -10,7 +10,7 @@ This model is a YSM model developed based on the boss "Ultimate Order Manager" i
 
 This model is based on FantasyEnding.
 
-- **原作者 Original Author**[MegaDarkness
+- **原作者 Original Author**: MegaDarkness
 - **源代码/原始模型来源**Source Code/Original Model Source：https://www.mcmod.cn/class/16674.html
 - **原始授权 Original License**：MIT License
 
